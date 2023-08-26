@@ -1,6 +1,7 @@
 # weatherapp
 <p>
   <img src=".github/project.png" alt="demonstração do projeto" width="100%" />
+  <img src=".github/project2.png" alt="demonstração do projeto" width="100%" />
 </p>
 
 # 🖥️ Weather App
